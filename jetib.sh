@@ -2,7 +2,7 @@
 #
 # Jetib Login Tool (v0.4)
 # 
-# Author: Timothy White http://weirdo.bur.st/
+# Author: Timothy White http://tim.purewhite.id.au/
 # 
 # This script will log you in to a jetib (Jet Internet Billing) system
 #
